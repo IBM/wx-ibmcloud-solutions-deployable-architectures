@@ -62,7 +62,7 @@ ___
 
 # Optional 
 
-If time permits take a moment to review the resources deployed by the DA you created at the beginning of the lab. All resources with the prefix MY-lab were created from your DA. 
+If time permits take a moment to review the resources deployed by the DA you created at the beginning of the lab. All resources with the prefix my-lab were created from your DA. 
 
 1. Expand the **Navigation menu (A)** on the upper right-hand corner. Select **Projects (B)**
 
