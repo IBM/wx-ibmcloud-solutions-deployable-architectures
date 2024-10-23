@@ -5,7 +5,7 @@ The RAG DA deploys the sample Bank Loan application on IBM Code Engine. Code Eng
 ---
 
 1. Expand the **Navigation menu (A)** and hover over **Containers (B)** and select **Projects (C)**
-
+![alt text](../images/1.4.1-new.png)
 
 In IBM Cloud Code Engine, **projects** are a way to organize and manage resources, such as applications and builds. They act as containers that group related resources together, making it easier to manage and control access to them. 
 
