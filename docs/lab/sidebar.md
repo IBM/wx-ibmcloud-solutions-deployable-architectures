@@ -1,6 +1,5 @@
 - [Lab Sign in](https://ibm.biz/rag-lab-2024)
----
-- [🔎 Overview](README.md)
+    * [🔎 Overview](README.md)
     * [🏎️ Getting started!](getting-started.md)
     * [0️⃣ Deploy the Stack](0-deploy-stack.md)
     * [0.1 Deploy MY-lab Stack](0_1-deploy-stack.md)

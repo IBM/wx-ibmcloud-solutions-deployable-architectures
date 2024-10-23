@@ -1,8 +1,5 @@
 # Deploy MY-lab Stack 
 
-In this section, participants will first deploy their own deployable architecture (DA) within IBM Cloud.
-______
-
 Retrieval augmented generation (RAG) is an AI framework for improving the quality of LLM-generated responses by grounding the model on external sources knowledge to supplement the LLM’s internal representation of information.
 
 On the Dashboard of the Cloud account, first make sure you are on the **itz-enablement-012 account (A)**.
