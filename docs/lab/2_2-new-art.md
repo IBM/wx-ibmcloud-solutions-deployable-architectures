@@ -48,7 +48,9 @@ b. Select the **triple dot (A)** and then click **Download (B)**.
 
 c. Repeat for all files, then go to the download folder on your computer and drag and drop. 
 
-9. You will need to re-launch the chatbot so the changes that have been made to the documents are applied. 
+9. You will need to re-launch the chatbot so the changes that have been made to the documents are applied. Follow steps in 1.4 and 1.5 to reopen the chatbot.
+
+
 
  Ask the questions again regarding life insurance and observe the improvement in answers. 
  
